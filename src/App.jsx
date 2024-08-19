@@ -43,6 +43,7 @@ function App() {
     </div>
 
     <div className='sidebar-personal-details'>
+      Personal
     </div>
 
     <div className='sidebar-education'>
