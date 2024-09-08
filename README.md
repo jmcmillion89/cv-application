@@ -1,8 +1,13 @@
-# React + Vite
+# The Odin Project - CV Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This web app is a CV (Curriculum Vitae) application built as part of The Odin Project curriculum. It allows users to create and manage their CVs with a user-friendly interface.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Create, edit, and delete CV sections.
+- Real-time preview of the CV.
+- Responsive design.
+
+## Live Demo
+
+Check out the live demo [here](https://main--nimble-starburst-247b2a.netlify.app/).
