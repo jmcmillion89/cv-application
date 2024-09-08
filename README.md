@@ -8,6 +8,10 @@ This web app is a CV (Curriculum Vitae) application built as part of The Odin Pr
 - Real-time preview of the CV.
 - Responsive design.
 
+## Preview
+
+![Preview](./preview.png)
+
 ## Live Demo
 
 Check out the live demo [here](https://main--nimble-starburst-247b2a.netlify.app/).
