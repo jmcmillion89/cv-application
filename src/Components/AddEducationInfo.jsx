@@ -57,7 +57,10 @@ const AddEducationInfo = () => {
                 <li key={education.id}>
                   <strong>{education.school} </strong>
                   <br />
-                  <button onClick={() => deleteEducation(education.id)}>
+                  <button
+                    className="deleteButton"
+                    onClick={() => deleteEducation(education.id)}
+                  >
                     Delete
                   </button>
                 </li>

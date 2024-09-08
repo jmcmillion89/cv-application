@@ -36,7 +36,10 @@ function AddExperienceInfo() {
                 <li key={experience.id}>
                   <strong>{experience.company}</strong>
                   <br />
-                  <button onClick={() => deleteExperience(experience.id)}>
+                  <button
+                    className="deleteButton"
+                    onClick={() => deleteExperience(experience.id)}
+                  >
                     Delete
                   </button>
                 </li>
